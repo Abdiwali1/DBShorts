@@ -7,7 +7,7 @@ public class P01_TestConnection {
 
         // Connection String
 
-        String dbUrl="jdbc:oracle:thin:@100.26.138.222:1521:XE";
+        String dbUrl="jdbc:oracle:thin:@3.83.69.218:1521:XE";
         String dbPassword="hr";
         String dbUsername="hr";
 
